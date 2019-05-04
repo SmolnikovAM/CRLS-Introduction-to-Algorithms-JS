@@ -2,8 +2,9 @@
   "name": "crls-introduction-to-algorithms-js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
+    "start": "./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +18,8 @@
   },
   "homepage": "https://github.com/SmolnikovAM/CRLS-Introduction-to-Algorithms-JS#readme",
   "template": "node",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "nodemon": "^1.19.0",
     "prettier": "^1.17.0"
   }
