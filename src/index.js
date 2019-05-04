@@ -1,2 +1,1 @@
-console.log('test  sd ');
-console.log('commit from cs');
+require('./part-01/mergeSort').run();
