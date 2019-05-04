@@ -1,0 +1,24 @@
+{
+  "name": "crls-introduction-to-algorithms-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmolnikovAM/CRLS-Introduction-to-Algorithms-JS.git"
+  },
+  "author": "Smolnikov Andrei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmolnikovAM/CRLS-Introduction-to-Algorithms-JS/issues"
+  },
+  "homepage": "https://github.com/SmolnikovAM/CRLS-Introduction-to-Algorithms-JS#readme",
+  "template": "node",
+  "devDependencies": {
+    "nodemon": "^1.19.0",
+    "prettier": "^1.17.0"
+  }
+}
